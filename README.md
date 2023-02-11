@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MNFrankie on twitter and git.
+- 👋 Hi, I’m @MN_Frankie on twitter and @MNFrankie git.
 - 👀 I’m interested in DevOps and DevSecOps
 - 🌱 I’m currently learning ansible, perfecting scripting.
 - 💞️ I’m looking to collaborate on DevOps and DevSecOps - Fortinet//SailPoint//Cisco//Arista//Extreme
